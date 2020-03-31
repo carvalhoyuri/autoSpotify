@@ -8,7 +8,7 @@ Um script com a finalidade de gerar uma playlist no Spotify automaticamente com 
 * [Problemas](#Problemas)
 
 ## Video
-Vídeo demonstrando o funcionamento 
+Vídeo demonstrando o funcionamento do script
 [Youtube Video]
 
 ## Tecnologias utilizadas

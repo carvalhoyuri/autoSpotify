@@ -4,8 +4,8 @@ Um script com a finalidade de gerar uma playlist no Spotify automaticamente com 
 ## Conteúdo
 * [Video](#Video)
 * [Tecnologias utilizadas](#Tecnologias)
-* [Configuração](#Configurações locais)
-* [Solução de problemas](#Solução de problemas)
+* [Configuração](#Configurações)
+* [Problemas](#Problemas)
 
 ## Video
 Vídeo demonstrando o funcionamento 
@@ -17,7 +17,7 @@ Vídeo demonstrando o funcionamento
 * [Requests Library v 2.22.0]
 * [Youtube_dl v 2020.01.24]
 
-## Configurações locais
+## Configurações
 1) Instale todas as dependências  
 `pip3 install -r requirements.txt`
 
@@ -39,7 +39,7 @@ Vídeo demonstrando o funcionamento
 
 
 
-## Solução de problemas
+## Problemas
 * O token do Spotify expira muito rápido, se por acaso visualizar a mensagem  `KeyError` o motivo da mesma pode ser um token expirado. Volte ao passo 3 e gere um novo token!
 
 
